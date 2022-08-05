@@ -1,4 +1,4 @@
-## Hi there, this is Gustavo Ottoboni 
+## Hi there, this is Gustavo Ottoboni. Welcome to my GitHub :smile:
 
 <div style="display: inline-block"><br>
   <a href="https://github.com/ottoguz">
